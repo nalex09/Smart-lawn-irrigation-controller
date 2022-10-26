@@ -4,13 +4,13 @@
    In manual operating mode, the user can turn on the irrigation separately, on each zone. This   operation is done through the use of some switches placed on the system's control panel.   
    Compared to the other operating modes, Bluetooth mode allows the control of the status of the mobile phone by the Bluetooth communication. This operating mode is similar to the manual control mode, the difference being that in the Bluetooth mode the control of the irrigation zones is done from an application placed on the mobile phone.   
    The system owns too a display panel consisting of an LCD display on which the status of the system can be monitorized. On this display is showed the data about how the system works and the status of each irrigation area. The resulting system is a simple system, easy to implement and not expensive compared to the systems on the market, while also allowing further developments. 
-##Proteus wiring diagram
+## Proteus wiring diagram
 ![proteus wiring diagram](https://user-images.githubusercontent.com/57752680/198001166-ea8e64c5-f652-4f0e-bcec-6045b21ec465.png)
 ## Circuit testing on breadboard
 ![image](https://user-images.githubusercontent.com/57752680/198001465-d1467dd4-6809-41f6-8475-00ed25baeec1.png)
 ![image](https://user-images.githubusercontent.com/57752680/198001555-50d15205-0c33-4ad5-876c-0cdae77f8548.png)
 ![image](https://user-images.githubusercontent.com/57752680/198001580-611a0015-c424-46a6-bf8c-8f03954a0a4f.png)
 ![image](https://user-images.githubusercontent.com/57752680/198001596-0a27e209-8ede-47f6-a5b7-d44a00e4a036.png)
-##Final circuit
+## Final circuit
 ![image](https://user-images.githubusercontent.com/57752680/198001646-89ee3547-a2d2-4cd7-a2f7-1c4d2fe1b82a.png)
 
