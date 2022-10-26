@@ -5,7 +5,7 @@ hardware components with software to get a working system. In the making of this
 used hardware components like microcontroller, relays, soil moisture sensors, liquid crystal display, HC-06 Bluetooth module,
 mechanical swiches, etc. To integrate this hardware modules with software it was used
 components like Analog-Digital converter, Digital Input/Outpus interface and UART protocol
-This lawn irrigation controller allow control of three dinstinct irrigation areas. Also, the sistem allows three operating modes: automatic mode, manual mode and Bluetooth mode.   
+  This lawn irrigation controller allow control of three dinstinct irrigation areas. Also, the sistem allows three operating modes: automatic mode, manual mode and Bluetooth mode.   
    In the automatic mode, the sistem works on the behalf of soil-resistant moisture sensors. In the case of the soil moisture detected in one of the areas is lower than the reference value implemented in the software, the system will decide to start irrigation in that area. If not, such as in an area the value of soil moisture is higher than the reference value, the system will decide the stop of the irrigation.  
    In manual operating mode, the user can turn on the irrigation separately, on each zone. This   operation is done through the use of some switches placed on the system's control panel.   
    Compared to the other operating modes, Bluetooth mode allows the control of the status of the mobile phone by the Bluetooth communication. This operating mode is similar to the manual control mode, the difference being that in the Bluetooth mode the control of the irrigation zones is done from an application placed on the mobile phone.   
