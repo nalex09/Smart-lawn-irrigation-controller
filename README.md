@@ -2,7 +2,7 @@
 The realized project involves the design and implementation of a solution for lawn irrigation
 controller based on AVR MCU ATmega328P. The project involved the integration of
 hardware components with software to get a working system. In the making of this project it was
-used hardware components like microcontroller, relays, soil moisture sensors, liquid crystal display,
+used hardware components like microcontroller, relays, soil moisture sensors, liquid crystal display, HC-06 Bluetooth module,
 mechanical swiches, etc. To integrate this hardware modules with software it was used
 components like Analog-Digital converter, Digital Input/Outpus interface and UART protocol
 This lawn irrigation controller allow control of three dinstinct irrigation areas. Also, the sistem allows three operating modes: automatic mode, manual mode and Bluetooth mode.   
